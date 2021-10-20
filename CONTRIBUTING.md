@@ -1,2 +1,3 @@
 # CONTRIBUTING
 
+Contributing [guide](/#contributing)
